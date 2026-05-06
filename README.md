@@ -324,6 +324,17 @@ This project is part of a cybersecurity portfolio ecosystem:
 - **[Active Directory Home Lab](https://github.com/cpt-ferna02)** — Windows Server 2022 AD attack and defense simulation
 
 ---
+## Screenshots
+
+### 1. AI Triage System Running
+![Triage Running](screenshots/01-triage-running.png)
+
+### 2. Critical Alert — Submitted Data (Risk Score 10)
+![Critical Alert](screenshots/02-critical-alert.png)
+
+### 3. Full Incident Report
+![Full Report](screenshots/03-full-report.png)
+
 
 ## Disclaimer
 
