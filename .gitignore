@@ -1,0 +1,4 @@
+config.py
+keys.txt
+__pycache__/
+*.pyc
